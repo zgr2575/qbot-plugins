@@ -15,9 +15,9 @@ local apiKey = '' -- Replace with your actual API key (The one set in the .env f
 local commandPrefix = "!" -- Set this to your desired command prefix
 ```
 
-And voula, you now have ranking commands!
+And voila, you now have ranking commands!
 
-For additional support open a ticket in Lengo Labs.
+For additional support open a thread in qbot-help via the [discord server](https://discord.gg/ADQrmhVsPq).
 
 Created by: zgr2575
 
